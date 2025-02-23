@@ -135,7 +135,7 @@ http://localhost:5000/api/users
 ## **📌 How to Run the Project**
 1. **Clone the repository**  
    ```sh
-   git clone https://github.com/your-username/user-api.git
+   https://github.com/oumburs9/-build-a-simple-API-that-connects-to-a-database-and-serves-data.git
    ```
 2. **Go to the project directory**  
    ```sh
